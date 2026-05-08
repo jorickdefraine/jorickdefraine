@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-DeFi & Data Analyst. Previously Data & Finance Officer at **[Morpho](https://morpho.org)** — now building on top of what I learned there.
+DeFi Risk & Data Analyst. Previously Data & Finance Officer at **[Morpho](https://morpho.org)** — now building on top of what I learned there.
 
 Background in data engineering. Comfortable across the stack: smart contracts, protocol analytics, on-chain data pipelines.
 
@@ -33,8 +33,8 @@ A non-custodial ERC-4626 vault that routes USDC into the highest-yielding Morpho
 ## Stack
 
 ```
+EVM · Morpho
 Solidity · Foundry
-Base · Ethereum · Morpho
 Python · SQL · Apache Suite
 ```
 
