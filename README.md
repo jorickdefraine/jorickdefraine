@@ -18,7 +18,7 @@ A non-custodial ERC-4626 vault that routes USDC into the highest-yielding Morpho
 
 ## Open source contributions
 
-- **[DeFiLlama](https://github.com/DefiLlama)** — protocol adapters and TVL integrations · [3 merged PRs]([https://github.com/DefiLlama](https://github.com/DefiLlama/DefiLlama-Adapters/pulls?q=is%3Apr+author%3Ajorickdefraine)
+- **[DeFiLlama](https://github.com/DefiLlama)** — protocol adapters and TVL integrations · 3 merged PRs
 
 ---
 
